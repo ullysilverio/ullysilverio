@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Olá, me chamo Ullysses Silvério
 
-<!--
-**ullysilverio/ullysilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Sou um Desenvolvedor em Ascensão
 
-Here are some ideas to get you started:
+💻 Trabalhando com as tecnologias JavaScript, HTML e CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Aprendendo e crescendo a cada dia
+
+🚀 Buscando oportunidades para contribuir em projetos open source
+
+🌱 Sempre explorando novas tecnologias
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullysses-silv%C3%A9rio-0ab922277/)
