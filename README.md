@@ -2,7 +2,7 @@
 
 🌐 Sou um Desenvolvedor em Ascensão
 
-💻 Trabalhando com as tecnologias JavaScript, HTML e CSS
+💻 Trabalhando com as tecnologias JavaScript | Node.js | SQL | PostegreSql | Git
 
 📚 Aprendendo e crescendo a cada dia
 
