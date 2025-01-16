@@ -1,8 +1,8 @@
 ### 👋 Olá, me chamo Ullysses Silvério
 
-🌐 Sou um Desenvolvedor em Ascensão
+🌐 Sou um Desenvolvedor de Software
 
-💻 Trabalhando com as tecnologias JavaScript | Node.js | SQL | PostegreSql | Git
+💻 Trabalhando com as tecnologias HTML | CSS | JavaScript | REACT | Node.js | SQL | PostegreSql | Git
 
 📚 Aprendendo e crescendo a cada dia
 
